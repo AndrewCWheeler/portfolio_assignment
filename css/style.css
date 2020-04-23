@@ -1,0 +1,258 @@
+.container {
+  width: 970px;
+  min-height: 1029px;
+}
+
+.header {
+  width: 970px;
+  min-height: 55px;
+  background-color: white;
+}
+
+.name {
+  display: inline-block;
+  padding-left: 25px;
+  font-family: "comic sans MS", sans-serif;
+}
+
+.name h2 {
+  margin: 0px;
+  padding-top: 3px;
+}
+
+.catchphrase {
+  display: inline-block;
+  padding-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 8px;
+  margin: 0px;
+  padding-top: 8px;
+}
+
+.background {
+  background-image: radial-gradient(#6e5964, #1c0c10);
+  width: 970px;
+  height: 925px;
+}
+
+.upper_body {
+  width: 970px;
+  min-height: 280px;
+  padding: 25px;
+  margin: 0px;
+}
+
+.upper_body img {
+  width: 400px;
+  height: 270px;
+  display: inline-block;
+  border: 4px solid #c0c0c0;
+}
+
+.upper_body .about {
+  width: 484px;
+  height: 278px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 25px;
+}
+
+.about_body {
+  background-image: linear-gradient(to right, #fdfcfd, #ddcedb);
+  width: 482px;
+  height: 238px;
+}
+
+.about_body p {
+  padding: 8px;
+  margin: 0px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(60, 60, 60);
+}
+
+.about_header {
+  width: 482px;
+  height: 40px;
+  color: white;
+  background-image: linear-gradient(#a9a9ae, #888594, #a9a9ae);
+}
+
+.lower_body {
+  width: 970px;
+  min-height: 525px;
+}
+
+.examples {
+  width: 290px;
+  height: 562px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 25px;
+  vertical-align: top;
+}
+
+#la_mode {
+  padding-left: 25px;
+}
+
+.example_header {
+  width: 290px;
+  height: 42px;
+  background-image: linear-gradient(#a9a9ae, #888594, #a9a9ae);
+}
+
+.example_header h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 8px;
+  margin: 0px;
+  padding-top: 10px;
+  color: white;
+}
+
+#la_mode img {
+  width: 290px;
+  height: 160px;
+  padding: 0px;
+}
+
+#family_contacts img {
+  width: 290px;
+  height: 160px;
+  padding: 0px;
+}
+
+#fiveEleven img {
+  width: 290px;
+  height: 160px;
+  padding: 0px;
+}
+
+.example_body {
+  width: 290px;
+  height: 160px;
+  background-image: linear-gradient(to right, #fdfcfd, #ddcedb);
+}
+
+.example_body p {
+  width: 270px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(60, 60, 60);
+  text-align: justify;
+  text-justify: inter-word;
+  margin-top: -5px;
+}
+
+.technologies_header {
+  width: 290px;
+  height: 40px;
+  background-image: linear-gradient(#a9a9ae, #888594, #a9a9ae);
+}
+
+.technologies_header h5 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 12px;
+  padding-top: 10px;
+  margin: 0px;
+}
+
+.languages {
+  width: 290px;
+  height: 160px;
+  background-image: linear-gradient(to right, #fdfcfd, #ddcedb);
+}
+
+.back_end {
+  width: 290px;
+  height: 53.33px;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.front_end {
+  width: 290px;
+  height: 53.33px;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.links {
+  width: auto;
+  height: 53.33px;
+  padding-top: 5px;
+}
+
+#la_mode_icons img {
+  width: 40px;
+  height: 40px;
+  padding-left: 8px;
+}
+
+#family_contact_icons img {
+  width: 40px;
+  height: 40px;
+  padding-left: 8px;
+}
+
+#fiveEleven_icons img {
+  width: 40px;
+  height: 40px;
+  padding-left: 8px;
+}
+
+button {
+  background-color: #3f7d60;
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+  font-size: 12px;
+  height: 25px;
+  width: auto;
+  box-shadow: 4px 4px #bcb8bc;
+  display: block;
+  margin: auto;
+}
+
+.footer {
+  width: 970px;
+  min-height: 50px;
+  background-color: white;
+  margin: 0px;
+}
+
+#footer img {
+  width: 20px;
+  height: 20px;
+  padding-right: 3px;
+}
+
+#footer ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  text-align: center;
+}
+
+#footer ul li {
+  display: inline;
+}
+
+#footer ul li a {
+  font-style: italic;
+  color: rgb(60, 60, 60);
+}
+
+#footer p {
+  padding-left: 345px;
+  margin: 10px;
+  color: rgb(60, 60, 60);
+}
